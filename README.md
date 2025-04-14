@@ -1,1 +1,1 @@
-# flexbox-gallery
+<strong>Cat Photo Gallery</strong> to showcase the usage of<em>Flexbox</em>.<br>
